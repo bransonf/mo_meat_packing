@@ -1,0 +1,4 @@
+# RStudio
+*.Rproj
+.Rproj*
+.Rhistory
